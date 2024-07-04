@@ -85,6 +85,9 @@ Pasos para configurar el proyecto localmente.
 3. Configura la base de datos en el archivo `application.properties`.
 4. ...
 
+## Run tests
+mvn test
+
 ## Uso
 
 Instrucciones detalladas sobre cómo utilizar el proyecto.
